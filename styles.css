@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.image-container {
+    width: auto;
+    height: 99vh;
+    position: relative;
+}
+
+#palm-tree {
+    height: calc(100% + 6.03px);
+}
+
+.image-text-container {
+    position: absolute;
+}
